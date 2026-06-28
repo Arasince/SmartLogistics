@@ -1,0 +1,13 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+
+# Netlify local state
+.netlify/
